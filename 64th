@@ -1,0 +1,20 @@
+voke-ai-assistant/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+│
+├── templates/
+│   └── index.html
+│
+├── static/
+│   └── style.css
+│
+├── chatbot/
+│   └── brain.py
+│
+├── voice/
+│   └── listen.py
+│
+├── social/
+│   └── whatsapp.py
